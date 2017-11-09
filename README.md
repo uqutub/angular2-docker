@@ -1,3 +1,7 @@
+# Docker Pull Image
+Run `docker pull uqutub/angular2:dev` to pull image from docker hub.
+
+
 # Angular5Docker
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
