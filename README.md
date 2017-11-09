@@ -1,6 +1,8 @@
 # Docker Pull Image
 Run `docker pull uqutub/angular2:dev` to pull image from docker hub.
 
+# Docker Run
+Run docker container `docker run -p 4200:4200 uqutub/angular2:dev`
 
 # Angular5Docker
 
